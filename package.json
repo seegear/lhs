@@ -5,6 +5,6 @@
         "syncrequest": "^1.4.7"
     },
     "scripts": {
-        "go": "node HeroSpider.js"
+        "go": "node lhs.js"
     }
 }
